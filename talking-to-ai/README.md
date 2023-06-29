@@ -18,14 +18,14 @@ In this engaging and interactive 90-to-120 minute workshop, we delve into the wo
 
 ## Deep Dive into AI Agents
 
-AI Agents are at the heart of this workshop. They are not just a tool, but a paradigm shift in how we interact with AI. In this workshop we will get a good understanding of what they actually _are_, how to build them and the core concept of 'Integrations' in this context.
+AI Agents are at the heart of this session. They are not just a tool, but a paradigm shift in how we interact with AI. In this workshop we will get a good understanding of what they actually _are_, how to build them and the core concept of 'Integrations' in this context.
 
 ## Workshop Structure
 
-The workshop is structured into three main parts: a presentation to introduce the concepts and tools, the core hands-on session where participants will get to build and interact with their own AI Agents, and a fun Kahoot to wrap up the workshop and consolidate the learning.
+There will be three main parts: a presentation to introduce the concepts and tools, the core hands-on session where participants will get to build and interact with their own AI Agents, and a fun Kahoot to wrap up the workshop and consolidate the learning.
 
 ## Who Should Attend?
 
 This workshop is oriented towards intermediate learners. However, beginners may find it funny and inspirational, while advanced professionals may get a better understanding of brand-new concepts like AI Agents. Familiarity with Python and HuggingFace is nice to have, but not needed at all - the notebook guides all workshop path.
 
-By the end of this workshop, you'll have a comprehensive understanding of Conversational AI, AI Agents, and how to build and interact with them. So, are you ready to create your own AI Agent and dive into some fun conversations? Join us for this exciting workshop!
+By the end of the session, you'll have a comprehensive understanding of Conversational AI, AI Agents, and how to build and interact with them. So, are you ready to create your own AI Agent and dive into some fun conversations?
