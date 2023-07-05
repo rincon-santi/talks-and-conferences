@@ -24,6 +24,10 @@ AI Agents are at the heart of this session. They are not just a tool, but a para
 
 There will be three main parts: a presentation to introduce the concepts and tools, the core hands-on session where participants will get to build and interact with their own AI Agents, and a fun Kahoot to wrap up the workshop and consolidate the learning.
 
+## Colab link
+
+https://colab.research.google.com/drive/1exl9Htk61ymMh8Fw51o9XQby26UP3jK1?usp=sharing
+
 ## Who Should Attend?
 
 This workshop is oriented towards intermediate learners. However, beginners may find it funny and inspirational, while advanced professionals may get a better understanding of brand-new concepts like AI Agents. Familiarity with Python and HuggingFace is nice to have, but not needed at all - the notebook guides all workshop path.
